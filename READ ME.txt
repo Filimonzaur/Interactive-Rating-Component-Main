@@ -1,0 +1,6 @@
+### ABOUT PROJECT ###
+
+In this project I coded a Interactive Rating website component.
+I reproduced a given design and made it responsive.
+
+Made with: HTML, CSS, JAVASCRIPT.
